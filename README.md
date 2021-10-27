@@ -1,3 +1,2 @@
 # KUADRAT
-Latihan Kudarat
-# Repository-Baru
+Latihan Kuadrat
